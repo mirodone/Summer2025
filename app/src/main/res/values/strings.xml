@@ -1,0 +1,141 @@
+<resources>
+    <string name="app_name">Thirty Days Of</string>
+    <string name="expand_button_content_description">Click to see card info</string>
+    <string name="title_1">Mega Knight</string>
+
+    <string name="title_2">PEKKA</string>
+    <string name="title_3">Inferno Dragon</string>
+    <string name="title_4">Lumber Jack</string>
+    <string name="title_5">Executioner</string>
+    <string name="title_6">Goblin Drill</string>
+    <string name="title_7">Arrows</string>
+    <string name="title_8">Goblin Barrel</string>
+    <string name="title_9">Bats</string>
+    <string name="title_10">Bomber</string>
+    <string name="title_11">Boss Bandit</string>
+    <string name="title_12">Cannon</string>
+    <string name="title_13">Electric Wizard</string>
+    <string name="title_14">Fire Cracker</string>
+    <string name="title_15">Witch</string>
+    <string name="title_16">Ice Wizard</string>
+    <string name="title_17">Knight</string>
+    <string name="title_18">Log</string>
+    <string name="title_19">Magic Archer</string>
+    <string name="title_20">Mortar</string>
+    <string name="title_21">Musketeer</string>
+    <string name="title_22">Princess</string>
+    <string name="title_23">Ram Rider</string>
+    <string name="title_24">Royal Giant</string>
+    <string name="title_25">Skeleton army</string>
+    <string name="title_26">Skeleton King</string>
+    <string name="title_27">Skeletons</string>
+    <string name="title_28">Tesla</string>
+    <string name="title_29">Valkyrie</string>
+    <string name="title_30">Wizard</string>
+
+    <string name="information_1">Mega Knight is a mighty beast with 3992 hit points and 268 damage.
+        His speed is medium.</string>
+    <string name="information_2">She has extremely high damage and hit points but is very slow
+        and easy to distract with swarms, often requiring splash support. For 7 Elixir and her very
+        high stats, shes very reliable for defense and tanking, and can devastate towers.</string>
+    <string name="information_3">For 4 Elixir, this dragon has moderately high health and high
+        damage. For 2 Cycles, if his Evolution is activated, he will gain a nice pair of goggles
+        alongside a transparent fuel tank and unlock a new ability the Beam Momentum.</string>
+    <string name="information_4">A powerful glass cannon for 4 Elixir, the Lumberjack provides
+        high damage and speed with moderate hitpoints.  For 2 cycles, if his Evolution is active,
+        after dropping his Rage, he will raise from the dead in the form of a spooky ghost.  </string>
+    <string name="information_5">For 5 Elixir, he provides insane value with moderately high
+        hitpoints and a sharp piercing axe that damages everything, ground or air, in its path for
+        4 tiles. On top of that, his axe returns, dealing another swing of damage on the way
+        back to him, dealing much more! </string>
+    <string name="information_6">For 4 Elixir, this drill can pop up anywhere in the arena and
+        start releasing Goblins. Upon destruction, it spawns 2 more! For 2 Cycles, if its Evolution
+        is active, the Goblins will go under ground two times that when not next to the Crown
+        Tower, will appear at the same spot </string>
+    <string name="information_7">Shoot into the sky with a 3 Elixir rain of Arrows.
+        Its moderate damage and large radius makes clearing swarms and weak enemies a breeze,
+        but is lackluster against higher health units like the Knight.</string>
+    <string name="information_8"> The Goblin Barrel is an Epic card that is unlocked from
+        the Arena 6. It is a spell, once the spell has hit the ground, it spawns three Goblins.
+        It is a wooden barrel with a Goblin logo on it. A Goblin Barrel card costs 3 Elixir to deploy.</string>
+    <string name="information_9">Fragile but fast flying units, Bats can attack both ground and
+        air units and their strong bites can easily deal with solo mini tanks. At just 2 Elixir,
+        Bats can fortify and cheapen your deck. For 2 Cycles, if their Evolution is active,
+        then they become VAMPIRE bats, granting them a new power called Life Leech,
+        healing themselves whenever they attack! </string>
+    <string name="information_10">A 2 Elixir high damage and medium ranged splash troop.</string>
+    <string name="information_11">The Boss Bandit is a Champion card that is unlocked from the
+        Royal Crypt (Arena 17). It spawns a single target, ground targeting, melee,
+        ground troop with high hitpoints and high damage.</string>
+    <string name="information_12">The Cannon is a Common card that is unlocked from the Barbarian
+        Bowl Arena 3. It spawns a single target, ground targeting, medium ranged, building with
+        moderate hitpoints and moderate damage. It appears as a cannon atop a metal platform with
+        a wooden base that have legs connected by ropes. A Cannon card costs 3 Elixir to deploy.</string>
+    <string name="information_13">The Electro Wizard is a Legendary card that is unlocked from the
+        Electro Valley Arena 11. It spawns a fast, multi target, air targeting, medium ranged,
+        ground troop with moderate hitpoints and moderate damage.An Electro Wizard card costs 4
+        Elixir to deploy. </string>
+    <string name="information_14">This former Archer has turned rebellious, bringing a firework
+        to cause havoc in the arena, just to lit up the showdowns! While frail for 3 Elixir,
+        she will push herself back with every attack.For 2 Cycles, if her Evolution is active,
+        she gets fired up. Both her initial attack and her shrapnel fires lands sparks which deal
+        damage around an area, and even slows down the movement speed of opposing troops!</string>
+    <string name="information_15">While her health is only decent and splash damage is mediocre
+        for 5 Elixir, she summons 4 Skeletons every 7 seconds to help distract destroy,
+        making her useful for defense and support. </string>
+    <string name="information_16">Chill out! This wizard has moderate hitpoints, deals low area
+        damage that slows units and spawns with frost around him that slows enemies (and also deals tiny damage to boot). For 3 Elixir.</string>
+    <string name="information_17">A moderate damage single target melee troop.</string>
+    <string name="information_18">It rolls. It crushes. It knocks back. It makes those heads roll.
+        It is none other than The Log. Arena floor, dealing moderate damage and knocking back every
+        enemy ground unit in its path for just 2 Elixir.</string>
+    <string name="information_19">The Magic Archer is a Legendary card that is unlocked from the
+        Arena 13. It spawns an area damage, air targeting, long ranged, ground troop with
+        moderate hitpoints and moderate damage.</string>
+    <string name="information_20">The ability to snipe towers, its moderate hi tpoints, and the
+        light cost of 4 Elixir make this building versatile, though its incredibly slow hit
+        speed means it often needs additional support against any unit. For 2 Cycles, if its
+        Evolution is active, a new ammunition arrives: Goblins!</string>
+    <string name="information_21">A consistent 4 Elixir single target shot attacking both air and
+        ground with fairly average stats.  For 2 Cycles, if her Evolution is active, she will gain a
+        scope, that will let her shoot enemies INFINITELY away from her vertically.</string>
+    <string name="information_22">The Princess is a Legendary card that is unlocked from the Arena 11.
+        It spawns an area damage, air targeting, very long ranged, ground troop with low
+        hitpoints and moderate damage.A Princess card costs 3 Elixir to deploy.</string>
+    <string name="information_23">The Ram Rider is a Legendary card that is unlocked from the Arena 11.
+        It spawns a single target, building targeting, melee, ground troop with high hitpoints and
+        high damage. After she travels 2 tiles, she will begin to charge towards her target,
+        and deals double damage if she hits the target whilst charging. A Ram Rider card costs 5
+        Elixir to deploy.</string>
+    <string name="information_24">The Royal Giant is a Common card that is unlocked from the Royal
+        Arena Arena 7. It spawns a slow, single target, building targeting, medium ranged, ground
+        troop with high hitpoints and high damage.A Royal Giant card costs 6 Elixir to deploy.</string>
+    <string name="information_25">Fifteen skeletons for just 3 Elixir  this massive swarm can
+        overwhelm single target enemy units in the blink of an eye! However, with their very
+        low hit points, they can be easily taken out by area damage or even several ranged units,
+        so they’re best used on defense with caution.</string>
+    <string name="information_26">The Skeleton King is a Champion card that is unlocked from
+        the Arena 16. It spawns an area damage, ground targeting, melee, ground troop with high
+        hitpoints and moderate damage. Being a Champion card, he will stay out of the players
+        card cycle while he is deployed, and only return once he is defeated.  A Skeleton King card
+        costs 4 Elixir to deploy, and his ability costs an additional 2 Elixir to activate.</string>
+    <string name="information_27">Three fast, low damage single target melee troops. They can
+        distract enemies when timed right or just exist to cycle your deck for the cheap price of 1
+        Elixir! For 2 Cycles, if their Evolution comes active when they attack, another Evolved
+        Skeleton with a fresh ushanka gets summoned</string>
+    <string name="information_28">For 4 Elixir, it has moderate health and damage, pulling
+        everything to itself, so that it can zap enemies, although it will not stun like most
+        electric based cards do. For 2 cycles, if its Evolution is active, the Tesla accumulates
+        so much voltage, that it will begin to release all that it accumulated. </string>
+    <string name="information_29">A 4 Elixir powerhouse with high health. This tough mini tank
+        swings her axe 360 to take out swarms and support troops alike.For 2 Cycles, if her
+        Evolution is active, every time she attacks, her axe spins also summon a whirlwind,
+        pulling both ground and air units alike, dealing an additional damage value. </string>
+    <string name="information_30">For 5 Elixir, the Wizard burns foes on the ground and in the air
+        with heavy hitting fireballs that deal splash damage.For 1 cycle, if his Evolution is
+        active, the Wizard exchanges his stylish hair in order to become
+        studious of the arcane art of a spell shield, giving him extra protection
+        from all sources of damage. </string>
+
+
+</resources>
